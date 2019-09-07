@@ -1,2 +1,1 @@
-# Noteful
-Noteful Thinkful
+# Noteful Client
